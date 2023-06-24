@@ -5,5 +5,5 @@
 3. Run the app using command: npm start
 
 
-NOTE!! Use this email: test10@gmail.com , pass: 123123 ,
-       Or You can create Dummy account in Sign Up section 
+NOTE!! Use this email: test10@gmail.com , pass: 123123 
+// It will bring you pass the login section
